@@ -1,4 +1,4 @@
-#Gecko To Patch 
+# Gecko To Patch 
 
 Implements all gecko codetypes that are ram writes with no memory, so 00, 02, 04, 06, C2, C6
 
@@ -54,7 +54,7 @@ copy paste everything after the dashes to the very bottom of the config file sho
 
 toggle will be available on the patches page of brawl properties, and you can edit name from there instead if you want
 
-#Gecko To PSA
+# Gecko To PSA
 
 Converts a psa injection from gecko to the psa format
 
